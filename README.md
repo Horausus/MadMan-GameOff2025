@@ -1,8 +1,26 @@
-This Game is an enemy wave shooter with an art style inspired by the likes of "Dusk" and the old "DOOM". It is made for the Game Off 2025 game jam. It's made in Unreal Engine 5.6 using Blueprints.
+MadMan
+MadMan is an enemy wave shooter in a retro PSX style that's all about running and gunning and buying perks to get stronger. How long can you survive in this god forsaken town. Get to killing you mad man! Yes, you can rocket jump. 
+
+FULLY CONTROLLER SUPPORTED!
 
 CONTROLS:
 
-Move: WASD 
-Jump: Spacebar 
-Attack: Left Click 
-Interact: E
+MOVE: WASD / Left Joystick
+
+SHOOT: LMB/ Left Trigger
+
+INTERACT: E / Square Button, X Button
+
+JUMP: Spacebar / X Button, A Button
+
+DASH: F / Left Bumper
+
+SPRINT: Left Shift / L3
+
+PAUSE: Tab / Start Button
+
+
+
+SPECIAL THANKS
+
+JalterIsDivine -Producer of the Main Menu and the Gameplay Theme
